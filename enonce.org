@@ -1,0 +1,4 @@
+Une cellule vivante avec < 2 voisins vivants meurt
+Celle vivante avec 2 ou 3 voisins vivants vit
+Cellule vivante > 3 voisins meurt
+Cellule morte = 3 voisins -> vivante
